@@ -6,7 +6,7 @@ Welcome to my E-commerce project! This site was created as part of a selection/a
 
 ## 🔗 Demo
 
-Check out the live demo (https://bytequestassignment2.netlify.app/).
+Check out the live demo [],(https://bytequestassignment2.netlify.app/).
 
 ## 🛠️ Technologies Used
 
